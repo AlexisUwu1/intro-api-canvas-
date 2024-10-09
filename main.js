@@ -87,8 +87,8 @@ ctx.bezierCurveTo(85, 25, 75, 37, 75, 40);
 ctx.fill();
 **/
 //trazo Combinaciones de líneas y figuras 
-roundedRect(ctx, 12, 12, 150, 150, 15);
-    roundedRect(ctx, 19, 19, 150, 150, 9);
+roundedRect(ctx, 12, 12, 200, 150, 15);
+    roundedRect(ctx, 19, 19, 185, 150, 9);
     roundedRect(ctx, 53, 53, 49, 33, 10);
     roundedRect(ctx, 53, 119, 49, 16, 6);
     roundedRect(ctx, 135, 53, 49, 33, 10);
